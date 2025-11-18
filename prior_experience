@@ -7,3 +7,4 @@ Prior CI/CD experience: Aly Ahmed:
 My experience with CI is with my internship over the summer, where I worked with Azure DevOps. When a pull request was made, 
 automated tests would run against my changes to see if they would break parts of the application upon deployment. 
 These tests would consist of unit tests written in the application, and if my changes did not have a fully passing set of unit tests, the build would fail. 
+I would then look at the build log and see which part of the application's testing failed to see where I might need to look to debug my code changes.
