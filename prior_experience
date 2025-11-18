@@ -9,3 +9,8 @@ automated tests would run against my changes to see if they would break parts of
 These tests would consist of unit tests written in the application, and if my changes did not have a fully passing set of unit tests, the build would fail. 
 I would then look at the build log and see which part of the application's testing failed to see where I might need to look to debug my code changes.
 While I am not sure, I believe these tests were run in a build similar to our production build to ensure features can be deployed to production efficiently.
+
+Prior CI/CD experience: Kyle Heeter:
+I don't really have any CI/CD experience, as I've never created anything that was released to a userbase. I never really have had to worry about deploying 
+and distributing my applications so far, as they've been for either personal use or school. I have practiced continuous delivery in a way, however, as even 
+on personal work I like to use versioning and keep the code in an always "deployable" (functional) state.
